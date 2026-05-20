@@ -1,11 +1,11 @@
-# 🎵 Système de Réservation de Billets de Concert
+#  Système de Réservation de Billets de Concert
 
 Projet Java L2 — Génie Logiciel  
 Application console pour gérer les réservations de billets de concerts.
 
 ---
 
-## 📋 Fonctionnalités
+##  Fonctionnalités
 
 ### Utilisateur
 - Consulter les concerts disponibles
@@ -18,7 +18,7 @@ Application console pour gérer les réservations de billets de concerts.
 
 ---
 
-## 🏗️ Structure du projet
+##  Structure du projet
 
 ```
 concert-reservation/
@@ -50,7 +50,7 @@ concert-reservation/
 
 ---
 
-## 🔑 Comptes de test
+##  Comptes de test
 
 | Rôle          | Email                | Mot de passe |
 |---------------|----------------------|--------------|
@@ -60,7 +60,7 @@ concert-reservation/
 
 ---
 
-## 🧱 Concepts Java utilisés
+##  Concepts Java utilisés
 
 | Concept | Où |
 |---|---|
@@ -73,7 +73,7 @@ concert-reservation/
 
 ---
 
-## 📌 Auteur
+##  Auteur
 
 Projet réalisé dans le cadre du cours de Programmation Orientée Objet — L2 Génie Logiciel.
 
