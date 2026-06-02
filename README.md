@@ -62,7 +62,8 @@ concert-reservation/
 
 ##  Concepts Java utilisés
 
-| Concept                                   |                   Où                         |
+|               Concept                     |                   Où                         |
+|-------------------------------------------|----------------------------------------------|
 | Classes & encapsulation                   | `Evenement`, `Reservation`, `Utilisateur`    |
 | Collections (`ArrayList`, `List`)         | `GestionEvenements`, `GestionReservations`   |
 | Exceptions personnalisées                 | package `exception`                          |
